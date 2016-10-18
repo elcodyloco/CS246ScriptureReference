@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<resources>
+
+    <string name="app_name">CS246 Scripture Reference</string>
+    <string name="button_submit">Submit</string>
+
+    <string name="prompt_main">Enter a book of scripture, a chapter, and a verse.</string>
+    <string name="prompt_book">Enter a book</string>
+    <string name="prompt_chap">Enter a chapter</string>
+    <string name="prompt_vers">Enter a verse</string>
+
+</resources>
